@@ -3,7 +3,7 @@
 
 ## Lab 00 - Deployment
 
-### Author: Becca Lee
+### Author: Becca Lee & Hannah Ingham
 
 ### Links and Resources
 
