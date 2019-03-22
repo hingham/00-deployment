@@ -9,7 +9,6 @@
 
 ![Build Status](https://www.travis-ci.com/beccalee123/00-deployment.svg?branch=master)
 * [repo](https://github.com/beccalee123/00-deployment)
-* [travis](https://www.travis-ci.com/beccalee123/00-deployment) 
 * [server](https://dashboard.heroku.com/apps/becca-00-deployment)
 
 ### Modules
